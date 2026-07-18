@@ -1,0 +1,14 @@
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\bin\Debug\net8.0\EAPStudy.exe
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\bin\Debug\net8.0\EAPStudy.deps.json
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\bin\Debug\net8.0\EAPStudy.runtimeconfig.json
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\bin\Debug\net8.0\EAPStudy.dll
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\bin\Debug\net8.0\EAPStudy.pdb
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\EAPStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\EAPStudy.AssemblyInfoInputs.cache
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\EAPStudy.AssemblyInfo.cs
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\EAPStudy.csproj.CoreCompileInputs.cache
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\EAPStudy.dll
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\refint\EAPStudy.dll
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\EAPStudy.pdb
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\EAPStudy.genruntimeconfig.cache
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\ref\EAPStudy.dll
