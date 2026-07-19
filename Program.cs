@@ -26,6 +26,25 @@ foreach (var eq in allEquipment)
     eq.Connect();   
 }
 
+// Exception Handling
+try
+{
+    Console.WriteLine("開始連線設備");
+    int a = 10;
+    int b = 0;
+    int result = a / b;   // 模擬送指令失敗
+    Console.WriteLine("指令送出成功");
+}
+catch (DivideByZeroException ex)
+{
+    Console.WriteLine("送指令失敗: " + ex.Message);
+}
+finally
+{
+    Console.WriteLine("關閉設備連線");
+}
+Console.WriteLine("程式繼續往下執行");
+
 
 
 // === 下面是 class / interface 定義 ===
