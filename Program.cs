@@ -32,7 +32,7 @@ try
     Console.WriteLine("開始連線設備");
     int a = 10;
     int b = 0;
-    int result = a / b;   // 模擬送指令失敗
+    // int result = a / b;   // 模擬送指令失敗
     Console.WriteLine("指令送出成功");
 }
 catch (DivideByZeroException ex)
@@ -44,6 +44,21 @@ finally
     Console.WriteLine("關閉設備連線");
 }
 Console.WriteLine("程式繼續往下執行");
+
+// File/Log
+File.AppendAllText("Equipment.log", "EQP01 Connected\n");
+File.AppendAllText("Equipment.log", "EQP01 Start\n");
+File.AppendAllText("Equipment.log", "EQP01 ERROR: Timeout\n");
+
+string[] lines = File.ReadAllLines("Equipment.log");
+foreach (var line in lines)
+{
+    if (line.Contains("ERROR"))
+    {
+        Console.WriteLine(line);
+    }
+
+}
 
 
 
