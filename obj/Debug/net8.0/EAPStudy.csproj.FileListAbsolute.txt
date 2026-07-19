@@ -12,3 +12,4 @@ C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\refint\EAPStudy
 C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\EAPStudy.pdb
 C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\EAPStudy.genruntimeconfig.cache
 C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\ref\EAPStudy.dll
+C:\Users\iris8\OneDrive\Desktop\Csharp\EAPStudy\obj\Debug\net8.0\EAPStudy.sourcelink.json
